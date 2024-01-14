@@ -2,8 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-8b2f4e59|Hex|Sun Jan 14 03:33:36 2024 +0800|btrfs-progs: fix compilation with musl 1.2.4 (#756)
-ceb8a218|Hex|Sun Jan 14 03:33:24 2024 +0800|perl: fix compilation with musl 1.2.4 (#755)
-d82c028f|Hex|Sun Jan 14 03:33:05 2024 +0800|btop: fix compilation with musl 1.2.4 (#754)
-98896f24|vant|Sun Jan 14 03:30:27 2024 +0800|tailscale: update to 1.44.3 (#753)
+28d68d7f|coolsnowwolf|Sun Jan 14 22:12:08 2024 +0800|Merge branch 'master' of https://github.com/coolsnowwolf/packages
+cc920473|coolsnowwolf|Sun Jan 14 22:11:29 2024 +0800|efivar: fix compilation with musl 1.2.4
+881c0be6|coolsnowwolf|Sun Jan 14 19:00:18 2024 +0800|Merge pull request #757 from ywt114/patch-1
+f2b9ae57|ywt114|Sun Jan 14 18:56:50 2024 +0800|xupnpd: fix compilation with musl 1.2.4
 </details>

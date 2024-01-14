@@ -1,0 +1,10 @@
+<details> <summary> <b>Lean Openwrt New Git Log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+f1803bc46|coolsnowwolf|Sun Jan 14 23:35:58 2024 +0800|loongarch64: fix image build
+4fb7370e0|coolsnowwolf|Sun Jan 14 23:16:29 2024 +0800|generic: fix loogarch64 kernel modules build
+eadf20fda|coolsnowwolf|Sun Jan 14 22:45:29 2024 +0800|toolchain/musl: add loogarch64 support
+f4405a959|coolsnowwolf|Sun Jan 14 21:47:34 2024 +0800|tools/zstd: update to 1.5.5
+2c67f6832|aakkll|Sun Jan 14 18:08:32 2024 +0800|kernel: bump 6.1 to 6.1.72 (#11769)
+</details>
