@@ -1,6 +1,0 @@
-<details> <summary> <b>Lean Openwrt New Git Log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6c05d9908|coolsnowwolf|Sun Jan 14 23:20:37 2024 +0800|package: fix compilation with musl 1.2.4
-</details>
