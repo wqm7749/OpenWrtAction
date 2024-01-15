@@ -1,0 +1,8 @@
+<details> <summary> <b>Lean Openwrt New Git Log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+e302ace38|coolsnowwolf|Mon Jan 15 17:40:44 2024 +0800|generic: refresh xt_FLOWOFFLOAD patch with new API
+cac1207d8|aakkll|Sun Jan 14 18:08:32 2024 +0800|kernel: bump 6.1 to 6.1.72 (#11769)
+156a1b67d|coolsnowwolf|Mon Jan 15 17:28:00 2024 +0800|netsupport.mk: add missing Kconfig for sched
+</details>
