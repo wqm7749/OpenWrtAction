@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-e302ace38|coolsnowwolf|Mon Jan 15 17:40:44 2024 +0800|generic: refresh xt_FLOWOFFLOAD patch with new API
-cac1207d8|aakkll|Sun Jan 14 18:08:32 2024 +0800|kernel: bump 6.1 to 6.1.72 (#11769)
-156a1b67d|coolsnowwolf|Mon Jan 15 17:28:00 2024 +0800|netsupport.mk: add missing Kconfig for sched
+9d7e32349|coolsnowwolf|Tue Jan 16 23:00:01 2024 +0800|kernel: bump 6.1 to 6.1.73
+19dba8a52|Miles Poupart|Tue Jan 16 22:48:52 2024 +0800|dwarves: bump to 1.25 (#11793)
+32a89b611|coolsnowwolf|Tue Jan 16 22:28:12 2024 +0800|generic: fix kernel 6.1 FLOWOFFLOAD for iptables support
 </details>

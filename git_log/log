@@ -1,10 +1,10 @@
-lede:e302ace38*e302ace38
-packages:00f9b3be*00f9b3be
+lede:9d7e32349*9d7e32349
+packages:e7280b2a*e7280b2a
 luci:f45ed56*f45ed56
 routing:6f74738*6f74738
 telephony:0b0af5c*0b0af5c
 helloworld:edb9e0f*edb9e0f
-openwrt-passwall-packages:52bcba1*52bcba1
+openwrt-passwall-packages:5256084*5256084
 openwrt-passwall:51c8782*51c8782
 openwrt-passwall2:fb1703a*fb1703a
 OpenClash:605973b4*605973b4
