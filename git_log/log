@@ -6,7 +6,7 @@ telephony:0b0af5c*0b0af5c
 helloworld:edb9e0f*edb9e0f
 openwrt-passwall-packages:5256084*5256084
 openwrt-passwall:51c8782*51c8782
-openwrt-passwall2:fb1703a*fb1703a
+openwrt-passwall2:073cfa2*073cfa2
 OpenClash:605973b4*605973b4
 luci-theme-argon:cbad1c9*cbad1c9
 luci-app-argon-config:9e2f3e5*9e2f3e5
