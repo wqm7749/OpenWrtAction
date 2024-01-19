@@ -1,6 +1,6 @@
 lede:9219eb1d1*9219eb1d1
 packages:d930ab31*d930ab31
-luci:f45ed56*f45ed56
+luci:cdf2b69*cdf2b69
 routing:6f74738*6f74738
 telephony:0b0af5c*0b0af5c
 helloworld:edb9e0f*edb9e0f
